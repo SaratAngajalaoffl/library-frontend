@@ -1,0 +1,20 @@
+.container {
+    height: 93vh;
+
+    padding: 20px 40px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner_container {
+    width: 700px;
+    padding: 50px;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: bold;
+}

@@ -1,0 +1,9 @@
+.file_input {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    gap: 20px;
+
+    margin: 10px 0px;
+}
